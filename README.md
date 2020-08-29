@@ -5,3 +5,4 @@ This is a simple Shiny dashboard to visualize the COVID-19 cases in the United S
 Data Source: (The COVID Tracking Project)[https://covidtracking.com/]
 
 Shiny App URL: https://rmitra.shinyapps.io/covid-tracking/
+
