@@ -6,4 +6,4 @@ Data Source: (The COVID Tracking Project)[https://covidtracking.com/]
 
 Shiny App URL: https://rmitra.shinyapps.io/covid-tracking/
 
-Screenshot: ![img](application_screenshot.jpeg)
+Screenshot: ![img](application_screenshot.JPG)
