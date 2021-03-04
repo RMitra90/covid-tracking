@@ -1,6 +1,6 @@
 # COVID-19 Tracking : USA
 
-This is a simple Shiny dashboard to visualize the COVID-19 cases in the United States of America. The dashboard is updated with data regularly.
+This is a simple Shiny web app to visualize the COVID-19 cases in the United States of America. It is deployed using RStudio's hosting service. The dashboard is updated with data almost regularly.
 
 Data Source: [The COVID Tracking Project](https://covidtracking.com/)
 
